@@ -1,0 +1,16 @@
+Q-1: What are the most popular 3 articles of all time?
+
+"candidate-is-jerk, alleges rival"- 338647 views
+"bears-love-berries, alleges bear"- 253801 views
+"bad-things-gone, say good people"- 170098 views
+
+Q-2: Who are the most popular article authors of all time?
+
+Ursula La Multa- 507594 views
+Rudolf von Treppenwitz- 423457 views
+Anonymous Contributor- 170098 views
+Markoff Channey- 84557 views
+
+Q-3: On which day did more than 1% of requests lead to errors?
+
+2016-07-17- 2.2627 % errors
